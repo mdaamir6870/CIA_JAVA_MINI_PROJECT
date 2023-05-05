@@ -16,7 +16,7 @@ The actors include the following:
 * Administrator
 
 
-github.com/mdaamir6870/CIA_JAVA_MINI_PROJECT/issues/new
+
 
 ## Project Working
 
