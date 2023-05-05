@@ -85,6 +85,11 @@ The password for Administrative Functions is *lib*. The admin adds new clerks an
 
 ## DATA ANALYSIS
 
+
+
+![WhatsApp Image 2023-05-05 at 7 47 29 PM](https://user-images.githubusercontent.com/97155542/236484148-1c5dfe12-3ed3-4d26-b34b-3a1a6b1ea9d9.jpeg)
+
+
 In this part we will gain some insights about which borrower has borrowed most number of books from the Library
 
 ![piechart-1](https://user-images.githubusercontent.com/118739698/236479892-d3487c4e-0aa2-4fb8-9b1a-5c064296cc46.png)
