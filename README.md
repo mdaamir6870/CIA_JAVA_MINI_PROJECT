@@ -84,23 +84,12 @@ The password for Administrative Functions is *lib*. The admin adds new clerks an
 
 
 ## DATA ANALYSIS
-![WhatsApp Image 2023-05-05 at 7 47 29 PM](https://user-images.githubusercontent.com/97155542/236484148-1c5dfe12-3ed3-4d26-b34b-3a1a6b1ea9d9.jpeg)
-
-
-
-
-![WhatsApp Image 2023-05-05 at 7 47 29 PM](https://user-images.githubusercontent.com/97155542/236484148-1c5dfe12-3ed3-4d26-b34b-3a1a6b1ea9d9.jpeg)
-
-
-![WhatsApp Image 2023-05-05 at 7 47 29 PM](https://user-images.githubusercontent.com/97155542/236484148-1c5dfe12-3ed3-4d26-b34b-3a1a6b1ea9d9.jpeg)
 
 
 In this part we will gain some insights about which borrower has borrowed most number of books from the Library
 
 ![piechart-1](https://user-images.githubusercontent.com/118739698/236479892-d3487c4e-0aa2-4fb8-9b1a-5c064296cc46.png)
 
-https://github.com/mdaamir6870/CIA_JAVA_MINI_PROJECT/issues/3#issue-1697680466
+## The piechart is being pinned in the ISSUE part of the repository which can be opened and viewed
 
-![piechart-1](https://user-images.githubusercontent.com/118739698/236481095-fb1d9896-305e-427e-a550-95d0aa947c32.png)
-
-
+In the Piechart we can notice that the BORROWER with id 20 has borrowed the most percentage of the books from the LIBRARY while the BORROWER with id 45 has borrowed the least percentage of BOOKS
