@@ -83,4 +83,12 @@ Now just click Next for the rest of the windows. After all this the database con
 The password for Administrative Functions is *lib*. The admin adds new clerks and librarian, then they both do the rest of the functions.
 
 
+## DATA ANALYSIS
+
+In this part we will gain some insights about which borrower has borrowed most number of books from the Library
+
+
+[piechart.pdf](https://github.com/mdaamir6870/CIA_JAVA_MINI_PROJECT/files/11406922/piechart.pdf)
+
+
 
