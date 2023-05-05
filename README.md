@@ -91,5 +91,6 @@ In this part we will gain some insights about which borrower has borrowed most n
 
 https://github.com/mdaamir6870/CIA_JAVA_MINI_PROJECT/issues/3#issue-1697680466
 
+![piechart-1](https://user-images.githubusercontent.com/118739698/236481095-fb1d9896-305e-427e-a550-95d0aa947c32.png)
 
 
