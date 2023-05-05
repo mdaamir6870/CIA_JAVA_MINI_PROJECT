@@ -15,6 +15,8 @@ The actors include the following:
 * Borrower
 * Administrator
 
+![interface2](https://user-images.githubusercontent.com/97155542/236435919-fd4681c7-f632-48e4-adf2-b7ab48dbe434.png)
+
 
 
 
