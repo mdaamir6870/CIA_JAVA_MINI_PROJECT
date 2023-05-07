@@ -4,7 +4,7 @@
 
 ##PROJECT OUTLINE
 
-a library management system created utilising Object-Oriented Analysis and Design principles. The GUI contains very little code, and the entities are also separated. It has a console-based user interface. The "Object Oriented Analysis and Design CS309" course is where this project was developed.
+A library management system created utilising Object-Oriented Analysis and Design principles. The GUI contains very little code, and the entities are also separated. It has a console-based user interface. The "Object Oriented Analysis and Design CS309" course is where this project was developed.
 
 
 
