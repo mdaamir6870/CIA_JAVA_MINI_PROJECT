@@ -82,16 +82,3 @@ Now just click Next for the rest of the windows. After all this the database con
 ## Note
 The password for Administrative Functions is *lib*. The admin adds new clerks and librarian, then they both do the rest of the functions.
 
-
-## DATA ANALYSIS
-
-
-In this part we will gain some insights about which borrower has borrowed most number of books from the Library
-
-![piechart-1](https://user-images.githubusercontent.com/118739698/236479892-d3487c4e-0aa2-4fb8-9b1a-5c064296cc46.png)
-
-If the Piechart is not able to be viewed inside this README.md file
-
-## The piechart is being pinned in the ISSUE part of the repository which can be opened and viewed
-
-In the Piechart we can notice that the BORROWER with id 20 has borrowed the most percentage of the books from the LIBRARY while the BORROWER with id 45 has borrowed the least percentage of BOOKS
